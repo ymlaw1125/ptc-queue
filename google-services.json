@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "780951548850",
+    "firebase_url": "https://parent-teacher-queue-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "parent-teacher-queue-app",
+    "storage_bucket": "parent-teacher-queue-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780951548850:android:5a90a0b4c237a778c02aab",
+        "android_client_info": {
+          "package_name": "com.shsid.parentsmeeting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Py4o-tzTuVlyQC1Mmnz2n9YG2LeOjIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
